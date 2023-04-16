@@ -1,0 +1,11 @@
+.logo {
+    color: black;
+}
+.logo span{
+color: #2196f3;
+}
+.nav a:hover {
+text-decoration: none;
+color: #212121;
+}
+
