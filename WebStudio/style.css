@@ -1,4 +1,24 @@
 .logo{
-    color: #2196F3;
+    color: black;
 }
+.logo span {
+    color:#2196F3 ;
+}    
+.header_link {
+list-style-type: none;
 
+}
+.header_link a {
+text-decoration: none;
+color: #212121;
+}
+.header_link a:hover {
+   color: #2196F3;
+}
+.menu_contact a {
+text-decoration: none;
+color: #757575
+}
+.menu_contact a:hover{
+    color: #2196F3
+}
