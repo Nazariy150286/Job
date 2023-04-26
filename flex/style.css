@@ -1,0 +1,17 @@
+.my-flex-container {
+    display: block;
+    height: 450px;
+}
+
+.my-flex-box {
+    width: 150px;
+    height: 150px;
+    background-color: plum;
+    text-align: center;
+    color: #fff;
+}
+
+.waiting {
+    height: 500px;
+    background-color: #929292;
+}
