@@ -1,6 +1,11 @@
 .my-flex-container {
-    display: block;
+    margin:0 auto;
+    /* width: 1140px ; */
+    display: flex;
     height: 450px;
+    justify-content: space-around ;
+    align-items: center;
+    flex-direction: row-reverse ;
 }
 
 .my-flex-box {
@@ -9,9 +14,9 @@
     background-color: plum;
     text-align: center;
     color: #fff;
+    
 }
-
-.waiting {
+ .waiting {
     height: 500px;
-    background-color: #929292;
+    background-color : #929292;
 }
